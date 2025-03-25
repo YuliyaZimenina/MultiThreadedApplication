@@ -1,3 +1,5 @@
+package multi_thread;
+
 public class MoreTreads {
     public static void main(String[] args) {
         System.out.println("Main thread starting");

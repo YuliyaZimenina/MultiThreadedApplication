@@ -1,3 +1,5 @@
+package multi_thread;
+
 public class MyThread implements Runnable{
     Thread thread;
 
