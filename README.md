@@ -12,7 +12,7 @@
 
 ## Description
 
-This project was created to learn the basics of multithreading in Java. It implements the fundamental concepts of threading, synchronization, and parallel computing.
+This project was created to learn the basics of multithreading in Java. It implements the fundamental concepts of threading and parallel computing.
 
 ### Concepts:
 - Creation and management of threads(Threads, Runnable)
